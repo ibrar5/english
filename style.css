@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+img{
+    height: 350px;
+}
+.des{
+    border: rgba(0, 0, 0, 0.3);
+}
+a{
+    color: black;
+}
+@media (max-width: 575px) {
+    a p{
+        font-size: 14px;
+    }
+}
